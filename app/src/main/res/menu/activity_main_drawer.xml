@@ -13,7 +13,7 @@
     <group android:id="@+id/menu_bottom" android:checkableBehavior="single">
         <item
             android:id="@+id/favoritesFragment"
-            android:icon="@drawable/favorite"
+            android:icon="@drawable/favorite_menu"
             android:title="@string/menu_favorites" />
     </group>
 </menu>
